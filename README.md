@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FacundoSuarez-46
-- 👀 I’m interested in improve my skills as a programmer
+- 👀 I’m interested in improving my skills as a programmer
 - 🌱 I’m currently learning web technologies such node, react and angular
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me facusuarez3201@gmail.com
